@@ -19,7 +19,6 @@ Rather than limiting myself to traditional engineering, I want to explore how ha
 
 ### 💡 Projects & Ideas I'm Exploring
 
-- **DESI-Autonomy:** An ambitious idea to explore autonomous vehicle technology designed specifically for Indian road conditions.
 - **VAKTRA:** An AI-powered skincare platform focused on intelligent skin analysis and personalized skincare recommendations.
 - **VolunteerHub:** A community platform designed to connect people with nearby volunteering and social-impact opportunities.
 - **Student Interest Networking Platform:** A platform that connects students across departments, semesters, and colleges based on shared interests, skills, and ambitions.
